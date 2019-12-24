@@ -1,3 +1,6 @@
 private int sum(int a, int b){
+	if((a+b)> Integer.MAX_VALUE){
+		throw new Exception();
+	}
 	return a + b;
 }
