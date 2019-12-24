@@ -1,2 +1,2 @@
 todo-app
-VERSION: 1.0-SNAPSHOT
+VERSION: 1.0
